@@ -97,6 +97,7 @@ class _DoctorInfoState extends State<DoctorInfo> {
                               fontSize: 20,
                               fontFamily: "Inconsolata",
                               color: Colors.grey),
+                              
                         ),
                       ),
                     ],
